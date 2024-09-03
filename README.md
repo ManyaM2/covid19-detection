@@ -1,1 +1,1 @@
-# covid19-detection
+# Covid19 Detection using Lung CT Scans
